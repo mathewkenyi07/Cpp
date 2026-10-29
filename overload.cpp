@@ -20,7 +20,7 @@ double calculateArea(double length, double width){
 }
 
 int main(){
-    //variables to store the users input
+    //variables to store the users input.
     int side;
     double radius,length,width;
     cout << "Enter the side of an area: ";
