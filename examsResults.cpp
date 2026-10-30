@@ -30,7 +30,7 @@ int main(){
     cin >> a;
 
     cout << "Enter the second marks: ";
-    cin >> b;
+    cin >> b; 
     
     cout << "Enter the third marks: ";
     cin >> c;
